@@ -19,12 +19,6 @@ sections:
       elements from each theme to offer young people the most interesting and
       diverse experience. 
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
