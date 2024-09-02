@@ -736,7 +736,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: 'Home '
-  metaDescription: ''
+  metaDescription: >-
+    6th Morpeth scouts is a local scout group in Morpeth with Beavers, Cubs and
+    Scouts taking part in weekly meetings
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
