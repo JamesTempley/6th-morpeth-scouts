@@ -165,7 +165,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Scouts Info",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
