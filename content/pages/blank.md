@@ -27,14 +27,7 @@ sections:
     subtitle: What we are up to this term
     text: |
       An outline of the programme plan for this term
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
