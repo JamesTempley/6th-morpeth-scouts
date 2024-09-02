@@ -24,7 +24,7 @@ sections:
       type: TitleBlock
       text: Title
       color: text-dark
-    subtitle: 'Below is an example term plan from our Autumn, Easter and Summer terms'
+    subtitle: Subtitle
     text: |+
       Autumn:
 
