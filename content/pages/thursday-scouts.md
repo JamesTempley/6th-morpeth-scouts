@@ -8,12 +8,20 @@ sections:
       text: Thursday Scouts
       color: text-dark
     subtitle: For young people aged 10 1/2 to 14 years
-    text: |
-      Section description:
+    text: >
+      Scouts are the third section of the Scouting Movement. There are over 28
+      million members worldwide, and in the UK alone there are over 499,000 boys
+      and girls involved in scouting.
 
-      Info from old website
 
-      Meeting times
+      Scouts offer a wide range of interests from Information Technology, street
+      sports, camping, entertainment, quad biking, sailing and conservation. As
+      well as the outdoor activities, Scouts participate in a balanced programme
+      that helps them find out about the world they live in, the importance of
+      keeping fit and knowing their abilities.
+
+
+      Thursday Scouts meet on Thursdays 19:45 to 21:15
     actions: []
     media:
       type: ImageBlock
