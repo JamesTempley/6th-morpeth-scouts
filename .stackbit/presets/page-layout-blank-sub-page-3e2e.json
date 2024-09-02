@@ -1,0 +1,177 @@
+{
+    "model": "PageLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Blank Sub Page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Page design"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Blank sub page",
+                "sections": [
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Title",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "Subtitle",
+                        "text": "Text box\n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/hero2.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Fun feature preview",
+                            "elementId": null,
+                            "styles": null
+                        },
+                        "badge": null,
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "alignItems": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Title",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "Subtitle",
+                        "text": "Text Box\n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/hero3.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Dope design preview",
+                            "elementId": null,
+                            "styles": null
+                        },
+                        "badge": null,
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "alignItems": "center",
+                                "flexDirection": "row-reverse"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Join us",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "Please use the boxes to get in touch",
+                        "text": "We currently have spaces in Beavers, Cubs and Scouts. If you would like to join us please get in touch.\n\nWithout our volunteers, Scouts would not exist. Volunteering with the Scouts helps us continue to give our young people new skills and experiences. The more leaders we have, the more young people can be provided with these opportunities.\n\nAnd it helps you too. Share your skills and gain some new ones. Volunteers come from all walks of life and give as little or as much time as they can spare.\n\nWe offer ongoing training, awards and recognition.\n\nPlease contact us to find out more. \n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "FormBlock",
+                            "fields": [
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "name",
+                                    "label": "Name",
+                                    "hideLabel": true,
+                                    "placeholder": "Your name",
+                                    "isRequired": true,
+                                    "width": "full"
+                                },
+                                {
+                                    "$$type": "EmailFormControl",
+                                    "name": "email",
+                                    "label": "Email",
+                                    "hideLabel": true,
+                                    "placeholder": "Your email",
+                                    "isRequired": true,
+                                    "width": "full"
+                                },
+                                {
+                                    "$$type": "TextareaFormControl",
+                                    "name": "message",
+                                    "label": "Message",
+                                    "hideLabel": true,
+                                    "placeholder": "Your message",
+                                    "isRequired": null,
+                                    "width": "full"
+                                }
+                            ],
+                            "submitButton": {
+                                "$$type": "SubmitButtonFormControl",
+                                "label": "Submit",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "primary",
+                                "elementId": null
+                            },
+                            "elementId": "contact-form",
+                            "styles": {
+                                "self": {
+                                    "padding": [
+                                        "pt-6",
+                                        "pb-6",
+                                        "pl-6",
+                                        "pr-6"
+                                    ],
+                                    "borderColor": "border-dark",
+                                    "borderStyle": "solid",
+                                    "borderWidth": 1,
+                                    "borderRadius": "large"
+                                }
+                            }
+                        },
+                        "badge": {
+                            "$$type": "Badge",
+                            "label": "Contact Us",
+                            "color": "text-primary",
+                            "styles": null
+                        },
+                        "elementId": "Contact-Us",
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "styles": null
+                    }
+                ],
+                "slug": "Blank",
+                "isDraft": false,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "Landing Page",
+                    "metaDescription": "Write here your new page's description including most relevant keywords.",
+                    "addTitleSuffix": true,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/main-hero.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                }
+            },
+            "thumbnail": "images/page-layout-blank-sub-page-3e2e.png"
+        }
+    ]
+}
