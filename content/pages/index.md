@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We offer challenge and adventure to young prople in Morpeth,
+      Northumberland. We have over 100 members in Beavers, Cubs and Scouts.
     actions:
       - type: Button
         label: Get started
