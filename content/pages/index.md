@@ -33,11 +33,26 @@ sections:
       text: Join us
       color: text-dark
     subtitle: Please use the boxes to get in touch
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We currently have spaces in Beavers, Cubs and Scouts. If you would like to
+      join us please get in touch.
+
+
+      Without our volunteers, Scouts would not exist. Volunteering with the
+      Scouts helps us continue to give our young people new skills and
+      experiences. The more leaders we have, the more young people can be
+      provided with these opportunities.
+
+
+      And it helps you too. Share your skills and gain some new ones. Volunteers
+      come from all walks of life and give as little or as much time as they can
+      spare.
+
+
+      We offer ongoing training, awards and recognition.
+
+
+      Please contact us to find out more. 
     actions: []
     media:
       type: FormBlock
