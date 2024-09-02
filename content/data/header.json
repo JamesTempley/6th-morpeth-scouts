@@ -1,94 +1,196 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/6th Morpeth scouts logo square white background smaller.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Beavers",
+            "altText": "Beavers",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Tuesday Beavers",
+                    "url": "/Tuesday-Beavers",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Tuesday"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Thursday Beavers",
+                    "url": "/Thursday-Beavers",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Thursday Beavers"
                 }
             ],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "type": "SubNav",
+            "label": "Cubs",
+            "altText": "Cubs",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Wednesday Cubs",
+                    "altText": "Wednesday Cubs",
+                    "url": "/Wednesday-Cubs",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Thursday Cubs",
+                    "altText": "Thursday Cubs",
+                    "url": "/Thursday-Cubs",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "primary"
+        },
+        {
+            "type": "SubNav",
+            "label": "Scouts",
+            "altText": "Scouts",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Thursday ",
+                    "altText": "Thursday",
+                    "url": "/Thursday-Scouts",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Wednesday Scouts",
+                    "altText": "Wednesday Scouts",
+                    "url": "/Wednesday-Scouts",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "primary"
+        },
+        {
+            "type": "Link",
+            "label": "Volunteer",
+            "altText": "Volunteer",
+            "url": "/Volunteer",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contact Us",
+            "altText": "Contact Us",
+            "url": "/contact-form",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "SubNav",
+            "label": "Member Info",
+            "altText": "Member Info",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Beavers",
+                    "altText": "Beavers",
+                    "url": "/Beaver-info",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Cubs",
+                    "altText": "Cubs",
+                    "url": "/Cub-info",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Scouts",
+                    "altText": "Scouts Info",
+                    "url": "/Scout-info",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Group Info",
+                    "altText": "Group Info",
+                    "url": "/Group-info",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "primary"
         }
     ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "",
+    "styles": {
+        "self": {
+            "margin": [
+                "mt-0"
+            ]
+        }
+    }
 }
