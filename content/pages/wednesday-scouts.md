@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Thursday Scouts
+      text: Wednesday Scouts
       color: text-dark
     subtitle: For young people aged 10 1/2 to 14 years
     text: >
