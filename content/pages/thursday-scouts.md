@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Blank sub page
+title: Thursday Scouts
 sections:
   - type: GenericSection
     title:
