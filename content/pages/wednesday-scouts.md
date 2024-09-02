@@ -21,7 +21,7 @@ sections:
       keeping fit and knowing their abilities.
 
 
-      Wednesday Scouts meet on Wednesdays 19:45 to 21:15
+      We meet on Wednesdays 19:45 to 21:15
     actions: []
     media:
       type: ImageBlock
