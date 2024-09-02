@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Thursday Cubs
       color: text-dark
-    subtitle: 'For young people aged '
+    subtitle: For young people aged 8 to 10 1/2 years
     text: |
       Section description:
 
