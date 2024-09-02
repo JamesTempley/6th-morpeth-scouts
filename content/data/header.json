@@ -176,7 +176,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Group Info",
                     "altText": "",
                     "url": "/Group-info",
                     "showIcon": false,
