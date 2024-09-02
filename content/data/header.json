@@ -138,7 +138,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Member Info",
             "altText": "Dropdown",
             "links": [
                 {
