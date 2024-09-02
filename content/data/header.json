@@ -128,7 +128,7 @@
         {
             "type": "Link",
             "label": "Contact Us",
-            "altText": "",
+            "altText": "Contact Us",
             "url": "/Contact-Us",
             "showIcon": false,
             "icon": "arrowRight",
