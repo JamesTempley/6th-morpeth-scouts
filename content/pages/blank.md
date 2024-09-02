@@ -28,12 +28,6 @@ sections:
     text: |
       An outline of the programme plan for this term
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
