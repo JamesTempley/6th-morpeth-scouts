@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Tuesday/Wednesday/Thursday Beavers/Cubs/Scouts
+      text: Thursday Beavers
       color: text-dark
     subtitle: 'For young people aged '
     text: |
