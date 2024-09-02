@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Blank sub page
+title: Beaver Info
 sections:
   - type: GenericSection
     title:
