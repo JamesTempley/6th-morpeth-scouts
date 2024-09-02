@@ -121,7 +121,7 @@
             "type": "Link",
             "label": "Contact Us",
             "altText": "Contact Us",
-            "url": "contact-form",
+            "url": "/contact-form",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
