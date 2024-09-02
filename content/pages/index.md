@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: Welcome to 6th Morpeth Scouts
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      We offer challenge and adventure to young people in Morpeth,
+      Northumberland. We have over 100 members in Beavers, Cubs and Scouts.
     text: >
       Our programmes are based around three main themes; outdoor & adventure,
       world and skills. this programme of activities is planned by the
