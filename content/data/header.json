@@ -102,7 +102,7 @@
                 {
                     "type": "Link",
                     "label": "Scouts",
-                    "altText": "",
+                    "altText": "Scouts",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
