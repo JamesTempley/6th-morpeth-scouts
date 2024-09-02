@@ -71,6 +71,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+    elementId: Contact-Us
 seo:
   metaTitle: 'Home '
   metaDescription: >-
