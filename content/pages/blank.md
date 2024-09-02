@@ -9,7 +9,15 @@ sections:
       color: text-dark
     subtitle: 'For young people aged '
     text: |
-      Text box
+      Section description:
+
+      Info from old website
+
+      Meeting times
+
+      Section size
+
+      Leaders
     actions: []
     media:
       type: ImageBlock
