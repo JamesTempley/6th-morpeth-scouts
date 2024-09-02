@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Thursday Beavers
+title: Tuesday Beavers
 sections:
   - type: GenericSection
     title:
