@@ -9,11 +9,7 @@ sections:
       color: text-dark
     subtitle: Sub
     text: |
-      Section description:
-
-      Info from old website
-
-      Meeting times
+      Text box
     actions: []
     media:
       type: ImageBlock
