@@ -166,7 +166,7 @@
                 {
                     "type": "Link",
                     "label": "Scouts Info",
-                    "altText": "",
+                    "altText": "Scouts Info",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
