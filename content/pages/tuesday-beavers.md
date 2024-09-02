@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Thursday Beavers
+      text: Tuesday Beavers
       color: text-dark
     subtitle: For young people aged 6 to 8 years
     text: >
