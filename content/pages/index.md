@@ -9,15 +9,11 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      We offer challenge and adventure to young people in Morpeth,
-      Northumberland. We have over 100 members in Beavers, Cubs and Scouts.
-
-
       Our programmes are based around three main themes; outdoor & adventure,
       world and skills. this programme of activities is planned by the
       leadership team in partnership with our young people, incorporating
       elements from each theme to offer young people the most interesting and
-      diverse experience. 
+      diverse experience.
     actions: []
     media:
       type: ImageBlock
