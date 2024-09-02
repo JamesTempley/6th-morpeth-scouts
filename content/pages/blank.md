@@ -25,17 +25,8 @@ sections:
       text: Title
       color: text-dark
     subtitle: Subtitle
-    text: |+
-      Autumn:
-
-
-
-      Easter:
-
-
-
-      Summer:
-
+    text: |
+      Text Box
     actions: []
     media:
       type: ImageBlock
