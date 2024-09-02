@@ -5,29 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "Email: <6thmorpethgsl@gmail.com>\n\n\n\n\nWe are kindly hosted by Morpeth Methodist Church:\n\nHoward Terrace, \n\nMorpeth, \n\nNE61 1HU\n\n\n\n\n",
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
