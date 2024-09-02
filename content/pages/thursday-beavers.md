@@ -8,12 +8,18 @@ sections:
       text: Thursday Beavers
       color: text-dark
     subtitle: For young people aged 6 to 8 years
-    text: |
-      Section description:
+    text: >
+      Beavers are our youngest section in our family. Their activities are based
+      around making things, outdoor activities, singing, playing games, going
+      out on visits, investigating nature, listening to stories, learning how to
+      be safe and most importantly, making new friends.
 
-      Info from old website
 
-      Meeting times
+      Due to no volunteer leaders for this section, the meetings are currently
+      not being held - Contact us if you are interested in finding out more
+
+
+      We meet on Thursdays 17:15 to 18:15
     actions: []
     media:
       type: ImageBlock
