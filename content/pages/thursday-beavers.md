@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Blank sub page
+title: Thursday Beavers
 sections:
   - type: GenericSection
     title:
