@@ -113,7 +113,7 @@
                 {
                     "type": "Link",
                     "label": "Wednesday Scouts",
-                    "altText": "",
+                    "altText": "Wednesday Scouts",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
