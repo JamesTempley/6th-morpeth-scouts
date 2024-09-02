@@ -139,7 +139,7 @@
         {
             "type": "SubNav",
             "label": "Member Info",
-            "altText": "Dropdown",
+            "altText": "Member Info",
             "links": [
                 {
                     "type": "Link",
