@@ -37,17 +37,16 @@ sections:
       text: Our Programme
       color: text-dark
     subtitle: 'Below is an example term plan from our Autumn, Easter and Summer terms'
-    text: |+
-      Autumn:
-
+    text: >
+      Autumn: Games night, First Aid 1, Remebrance day Parade, First Aid 2, Clip
+      n climb Cramlington, Mosque visit, American football, Toy service in
+      church, Christmas Bowling, Christmas Party
 
 
       Easter:
 
 
-
       Summer:
-
     actions: []
     media:
       type: ImageBlock
