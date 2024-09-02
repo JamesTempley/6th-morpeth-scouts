@@ -84,7 +84,7 @@
                 {
                     "type": "Link",
                     "label": "Thursday Scouts",
-                    "altText": "Thursday",
+                    "altText": "ThursdayScouts",
                     "url": "/Thursday-Scouts",
                     "showIcon": false,
                     "icon": "arrowRight",
