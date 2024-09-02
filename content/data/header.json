@@ -113,17 +113,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/Volunteer",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
