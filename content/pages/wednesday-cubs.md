@@ -18,7 +18,7 @@ sections:
       including our group summer camp and autumn residential.
 
 
-      We meet on Thursdays at 18:15 to 19:45
+      We meet on Wednesdays at 18:15 to 19:45
     actions: []
     media:
       type: ImageBlock
