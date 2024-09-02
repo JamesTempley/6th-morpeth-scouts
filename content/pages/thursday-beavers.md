@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Thursday Beavers
       color: text-dark
-    subtitle: 'For young people aged '
+    subtitle: For young people aged 6 to 8 years
     text: |
       Section description:
 
