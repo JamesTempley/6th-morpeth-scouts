@@ -35,7 +35,7 @@
                 },
                 {
                     "label": "Thursday Beavers",
-                    "url": "/Thursday-Beavers",
+                    "url": "/Thursday-Beavers/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
