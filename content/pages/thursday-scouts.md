@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Thursday Scouts
       color: text-dark
-    subtitle: 'For young people aged '
+    subtitle: For young people aged 10 1/2 to 14 years
     text: |
       Section description:
 
