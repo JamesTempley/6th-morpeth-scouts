@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Tuesday/Wednesday/Thursday Beavers/Cubs/Scouts
       color: text-dark
-    subtitle: Heading
+    subtitle: 'For young people aged '
     text: |
       Text box
     actions: []
