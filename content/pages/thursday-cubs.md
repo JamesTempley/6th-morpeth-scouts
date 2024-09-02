@@ -19,13 +19,6 @@ sections:
 
 
       We meet on Thursdays at 18:15 to 19:45
-
-
-      We currently have 18 cubs, 2 young leaders and 3 leaders
-
-
-      The leaders are James (Section leader), Gareth and Amy (section
-      assistants)
     actions: []
     media:
       type: ImageBlock
