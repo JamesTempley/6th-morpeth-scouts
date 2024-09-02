@@ -14,10 +14,6 @@ sections:
       Info from old website
 
       Meeting times
-
-      Section size
-
-      Leaders
     actions: []
     media:
       type: ImageBlock
