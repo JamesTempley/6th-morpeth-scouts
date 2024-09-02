@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Information for thi
+      text: Badge placement
       color: text-dark
     subtitle: Subtitle
     text: |
