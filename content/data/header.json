@@ -96,7 +96,7 @@
                     "type": "Link",
                     "label": "Wednesday Scouts",
                     "altText": "Wednesday Scouts",
-                    "url": "/Wednesday-Scouts",
+                    "url": "/Wednesday-Scouts/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
