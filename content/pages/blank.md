@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Image right
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Heading
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
