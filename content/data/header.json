@@ -83,7 +83,7 @@
                 {
                     "type": "Link",
                     "label": "Cubs",
-                    "altText": "",
+                    "altText": "Cubs",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
