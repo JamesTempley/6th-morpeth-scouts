@@ -83,9 +83,9 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Thursday Scouts",
-                    "altText": "Thursday Scouts",
-                    "url": "/Thursday-Scouts/",
+                    "label": "Wednesday Scouts",
+                    "altText": "Wednesday Scouts",
+                    "url": "/Wednesday-Scouts/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -94,9 +94,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Wednesday Scouts",
-                    "altText": "Wednesday Scouts",
-                    "url": "/Wednesday-Scouts/",
+                    "label": "Thursday Scouts",
+                    "altText": "Thursday Scouts",
+                    "url": "/Thursday-Scouts/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
