@@ -1,0 +1,48 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Image right",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Page section"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Title",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "Subtitle",
+                "text": "Text box\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/hero2.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-image-right-b47a.png"
+        }
+    ]
+}
