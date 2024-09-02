@@ -8,16 +8,24 @@ sections:
       text: Thursday Cubs
       color: text-dark
     subtitle: For young people aged 8 to 10 1/2 years
-    text: |
+    text: >
       Section description:
 
-      Info from old website
 
-      Meeting times
+      Cubs get opportunities to learn and take part in activities such as
+      swimming, computing, hiking, sports and exploring. All of these activities
+      can earn them badges. Cubs also take part in activity days and camps
+      including our group summer camp and autumn residential.
 
-      Section size
 
-      Leaders
+      We meet on Thursdays at 18:15 to 19:45
+
+
+      We currently have 18 cubs, 2 young leaders and 3 leaders
+
+
+      The leaders are James (Section leader), Gareth and Amy (section
+      assistants)
     actions: []
     media:
       type: ImageBlock
