@@ -28,7 +28,7 @@ sections:
       type: TitleBlock
       text: Our Programme
       color: text-dark
-    subtitle: What we are up to this term
+    subtitle: 'Below is an example term plan from our Autumn, Easter and Summer terms'
     text: |
       An outline of the programme plan for this term
     actions: []
