@@ -82,7 +82,7 @@
                     "elementId": ""
                 }
             ],
-            "labelStyle": "secondary"
+            "labelStyle": "primary"
         },
         {
             "type": "SubNav",
