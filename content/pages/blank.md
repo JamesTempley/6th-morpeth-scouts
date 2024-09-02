@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Title
       color: text-dark
-    subtitle: Sub
+    subtitle: Subtitle
     text: |
       Text box
     actions: []
