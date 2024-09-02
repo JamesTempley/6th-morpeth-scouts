@@ -177,7 +177,7 @@
                 {
                     "type": "Link",
                     "label": "Group Info",
-                    "altText": "",
+                    "altText": "Group Info",
                     "url": "/Group-info",
                     "showIcon": false,
                     "icon": "arrowRight",
