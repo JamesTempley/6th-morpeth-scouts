@@ -35,13 +35,34 @@ sections:
       color: text-dark
     subtitle: 'Below is an example term plan from our Autumn, Easter and Summer terms'
     text: >
-      This term we are doing:
+      Autumn term:
 
 
       Games, Handy Skills, Cookout, Group Activity Day, Problem Solving, World
-      Faith's Badge, Harvest Festival, Communicator Badge, SARDA, Halloween
-      Party, Remembrance Parade, Bat hunt, Home Safety Badge, Night Hike,
-      Christmas Service, Christmas Crafts and Christmas Party.
+      Faith's Badge, Activity Residential, Harvest Festival, Communicator Badge,
+      SARDA, Halloween Party, Remembrance Parade, Bat hunt, Home Safety Badge,
+      Night Hike, Christmas Service, Christmas Crafts and Christmas Party.
+
+
+
+
+      Easter Term:
+
+
+      Games, Ice Skating, Cubs Got Talent, First Aid, Trading Post, Cub Pack
+      Forum, Activity Sleepover, Sports Enthusiast badge, Hike and Chips and
+      Easter Crafts.
+
+
+
+
+      Summer Term:
+
+
+      Games, St Georges Day Parade, Not Knots, Blagdon cake sale, Scavenger
+      hunt, Bike maintenance, Bike ride, Newbiggin Lifeboat Station Tour,
+      Fathers Day Wide Games, Hike and Chips, Athletics, Clarks Bog, Summer
+      Camp, Cookout and Beach Party.
     actions: []
     media:
       type: ImageBlock
