@@ -97,7 +97,7 @@
         {
             "type": "SubNav",
             "label": "Scouts",
-            "altText": "Dropdown",
+            "altText": "Scouts",
             "links": [
                 {
                     "type": "Link",
