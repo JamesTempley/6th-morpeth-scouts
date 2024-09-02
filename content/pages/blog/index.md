@@ -1,6 +1,6 @@
 ---
 title: What we've done!
-slug: /blog
+slug: /What-we've-done
 numOfPostsPerPage: 0
 enableSearch: true
 topSections: []
