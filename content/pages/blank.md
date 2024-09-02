@@ -8,9 +8,8 @@ sections:
       text: Image right
       color: text-dark
     subtitle: Heading
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Text box
     actions:
       - type: Button
         label: Get started
