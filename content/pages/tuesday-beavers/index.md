@@ -126,7 +126,7 @@ sections:
       color: text-primary
     elementId: Contact-Us
     colors: bg-light-fg-dark
-slug: /Tuesday-Beavers
+slug: /Tuesday-Beavers/
 isDraft: false
 seo:
   type: Seo
