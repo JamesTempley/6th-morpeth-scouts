@@ -62,7 +62,7 @@
                 {
                     "type": "Link",
                     "label": "Wednesday Cubs",
-                    "altText": "",
+                    "altText": "Wednesday Cubs",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
