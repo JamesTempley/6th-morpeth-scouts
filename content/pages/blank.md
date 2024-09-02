@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Title
       color: text-dark
-    subtitle: 'For young people aged '
+    subtitle: Sub
     text: |
       Section description:
 
