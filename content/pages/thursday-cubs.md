@@ -42,7 +42,41 @@ sections:
       color: text-dark
     subtitle: What we are up to this term
     text: |
-      An outline of the programme plan for this term
+      This term we are doing:
+
+      Games 
+
+      Handy Skills
+
+      Cookout
+
+      Group Activity Day
+
+      Problem Solving 
+
+      World Faith's Badge
+
+      Harvest Festival
+
+      Communicator Badge
+
+      SARDA
+
+      Halloween Party
+
+      Remembrance Parade
+
+      Bat hunt
+
+      Home Safety Badge
+
+      Night Hike
+
+      Christmas Service
+
+      Christmas Crafts
+
+      Christmas Party
     actions: []
     media:
       type: ImageBlock
