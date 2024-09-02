@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Thursday Cubs
+title: Wednesday Cubs
 sections:
   - type: GenericSection
     title:
