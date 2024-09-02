@@ -15,10 +15,6 @@ sections:
       be safe and most importantly, making new friends.
 
 
-      Due to no volunteer leaders for this section, the meetings are currently
-      not being held - Contact us if you are interested in finding out more
-
-
       We meet on Thursdays 17:15 to 18:15
     actions: []
     media:
