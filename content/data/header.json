@@ -23,7 +23,7 @@
         {
             "label": "Beavers",
             "altText": "Beavers",
-            "url": "/blog",
+            "url": "/Beavers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
