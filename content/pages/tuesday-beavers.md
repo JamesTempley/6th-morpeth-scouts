@@ -131,7 +131,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Tuesday Beavers
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: ''
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
