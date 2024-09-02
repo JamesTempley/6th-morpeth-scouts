@@ -193,5 +193,12 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": ""
+    "title": "",
+    "styles": {
+        "self": {
+            "margin": [
+                "mt-10"
+            ]
+        }
+    }
 }
