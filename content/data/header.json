@@ -101,7 +101,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Scouts",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
