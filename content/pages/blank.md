@@ -22,7 +22,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Our Programme
+      text: Title
       color: text-dark
     subtitle: 'Below is an example term plan from our Autumn, Easter and Summer terms'
     text: |+
