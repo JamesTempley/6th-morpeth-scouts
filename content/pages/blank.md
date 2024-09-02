@@ -22,7 +22,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Image left
+      text: Our Programme
       color: text-dark
     subtitle: Be in good company
     text: >
