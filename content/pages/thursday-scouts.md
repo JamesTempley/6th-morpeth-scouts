@@ -21,7 +21,7 @@ sections:
       keeping fit and knowing their abilities.
 
 
-      Thursday Scouts meet on Thursdays 19:45 to 21:15
+      We meet on Thursdays 19:45 to 21:15
     actions: []
     media:
       type: ImageBlock
