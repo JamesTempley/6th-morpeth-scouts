@@ -117,7 +117,7 @@
         {
             "type": "Link",
             "label": "Volunteer",
-            "altText": "",
+            "altText": "Volunteer",
             "url": "/Volunteer",
             "showIcon": false,
             "icon": "arrowRight",
