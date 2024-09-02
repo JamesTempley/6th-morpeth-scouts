@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Thursday Scouts
+title: Wednesday Scouts
 sections:
   - type: GenericSection
     title:
