@@ -25,9 +25,8 @@ sections:
       text: Our Programme
       color: text-dark
     subtitle: What we are up to this term
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      An outline of the programme plan for this term
     actions:
       - type: Button
         label: Get started
