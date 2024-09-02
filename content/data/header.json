@@ -165,7 +165,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Scouts Info",
+                    "label": "Scouts",
                     "altText": "Scouts Info",
                     "url": "/Scout-info",
                     "showIcon": false,
